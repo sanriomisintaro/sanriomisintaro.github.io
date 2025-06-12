@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daftar TPA Indonesia</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <!-- Loading overlay -->
+    <div id="loading-overlay">
+        <div id="loading-message">Mengambil data dari sigi.pu.go.id...</div>
+    </div>
+
+    <!-- Navbar Breadcrumb -->
+    <nav class="navbar">
+        <div style="float:left;">
+            <a href="index.html" id="menu-utama-link">Menu Utama</a> &gt; Daftar
+        </div>
+        <!-- Pilihan bahasa -->
+        <select id="language-select" style="float: right;">
+            <option value="id">Bahasa Indonesia</option>
+            <option value="en">English</option>
+        </select>
+    </nav>
+
+    <h1></h1>
+    <p><em></em></p>
+
+    <!-- Filter Pencarian -->
+    <form id="filter-form" style="display:none;">
+        <label for="filter-field"></label>
+        <select id="filter-field">
+            <option value="provinsi">Provinsi</option>
+            <option value="kabKota">Kab/Kota</option>
+            <option value="namaTPA">Nama TPA</option>
+        </select>
+
+        <input type="text" id="filter-input" placeholder="">
+    </form>
+
+    <div id="loading-text" style="display:none;">Loading data...</div>
+
+    <table id="tpa-table" style="display:none;">
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data akan diisi oleh JS -->
+        </tbody>
+    </table>
+
+    <!-- Include bahasa.js -->
+    <script src="js/bahasa.js"></script>
+    <!-- Script JS untuk Daftar/list -->
+    <script src="js/daftar.js"></script>
+</body>
+</html>
