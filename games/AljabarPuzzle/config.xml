@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://id.co.souttabstudio.aljabarpuzzle" version="1.0.0" viewmodes="maximized">
+	<tizen:application required_version="2.2"/>
+	<author href="" email="rheomie@gmail.com">Sanriomi Sintaro</author>
+	<content src="index.html" />
+	<description>An Aljabar counting mind blowing game</description>
+	<icon src="icon-128.png" width="128" height="128" />
+	<name>Aljabar Puzzle</name>
+	<tizen:setting context-menu="disable" hwkey-event="enable" background-support="disable" encryption="disable" install-location="auto" screen-orientation="portrait" />
+	<feature name="http://tizen.org/feature/screen.size.all"/>
+</widget>

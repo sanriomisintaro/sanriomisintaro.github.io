@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>
+            Dimanakah ini?</title>
+
+        <script>
+            var myOptions = {
+                zoom: 2,
+                center: **Your LatLng object**,
+                mapTypeControlOptions: {
+                mapTypeIds: [google.maps.MapTypeId.ROADMAP, google.maps.MapTypeId.HYBRID]
+            }, // here´s the array of controls
+                disableDefaultUI: true, // a way to quickly hide all controls
+                    mapTypeControl: true,
+                        scaleControl: true,
+                            zoomControl: true,
+                                zoomControlOptions: {
+                                    style: google.maps.ZoomControlStyle.LARGE 
+                                },
+                                    mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            map = new google.maps.Map(document.getElementById("map_canvas"), myOptions); // displays in <article id="map_canvas"></article>
+            //map.mapTypeControl = false; // OPTIONAL: hides the map control
+
+        </script>
+    </head>
+    <body style="margin:0px;padding:0px;overflow:hidden">
+        <article id="map_canvas">
+        <iframe src="https://www.google.com/maps/embed?pb=!4v1674490152566!6m8!1m7!1sKFk3SRThMZ920fjir9FN3Q!2m2!1d-5.389972227046572!2d105.2394944515843!3f175.6300785126192!4f-7.108191212380987!5f0.7820865974627469" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></article>
+        
+    </body>
+</html>
