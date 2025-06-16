@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Pemilihan Umpan</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script>
+	//Luther Alexander Latumakulita, Sanriomi Sintaro, dan Vederico Pitsalitz Sabandar
+    // Data Rule Base (valid combinations)
+    const ruleBase = {
+        "Kakap Merah": {
+            "Dangkal": {
+                "Lemah": ["Musim Udang"],
+                "Sedang": ["Musim Cumi"],
+                "Kuat": ["Semua Musim"]
+            },
+            "Sedang": {
+                "Lemah": ["Musim Udang"],
+                "Sedang": ["Musim Cumi"],
+                "Kuat": ["Semua Musim"]
+            },
+            "Dalam": {
+                "Lemah": ["Semua Musim"],
+                "Sedang": ["Semua Musim"],
+                "Kuat": ["Semua Musim"]
+            }
+        },
+        "Kerapu": {
+            "Dangkal": {
+                "Lemah": ["Musim Udang"],
+                "Sedang": ["Musim Udang"],
+                "Kuat": ["Musim Cumi"]
+            },
+            "Sedang": {
+                "Lemah": ["Musim Cumi"],
+                "Sedang": ["Musim Cumi"],
+                "Kuat": ["Semua Musim"]
+            },
+            "Dalam": {
+                "Lemah": ["Semua Musim"],
+                "Sedang": ["Semua Musim"],
+                "Kuat": ["Semua Musim"]
+            }
+        },
+        "Aji-aji": {
+            "Dangkal": {
+                "Lemah": ["Musim Ikan Kecil"],
+                "Sedang": ["Musim Ikan Kecil"],
+                "Kuat": ["Musim Cumi"]
+            },
+            "Sedang": {
+                "Lemah": ["Musim Cumi"],
+                "Sedang": ["Musim Ikan Kecil"],
+                "Kuat": ["Musim Cumi"]
+            },
+            "Dalam": {
+                "Lemah": ["Musim Ikan Kecil"],
+                "Sedang": ["Semua Musim"],
+                "Kuat": ["Semua Musim"]
+            }
+        }
+    };
+
+    function updateOptions() {
+        const spesies = document.getElementById("spesies").value;
+        const kedalamanSelect = document.getElementById("kedalaman");
+        const arusSelect = document.getElementById("arus");
+        const musimSelect = document.getElementById("musim");
+
+        // Reset all select to default
+        resetSelect(kedalamanSelect);
+        resetSelect(arusSelect);
+        resetSelect(musimSelect);
+
+        if (spesies !== "") {
+            const kedalamanKeys = Object.keys(ruleBase[spesies]);
+            populateSelect(kedalamanSelect, kedalamanKeys);
+        }
+    }
+
+    function updateArus() {
+        const spesies = document.getElementById("spesies").value;
+        const kedalaman = document.getElementById("kedalaman").value;
+        const arusSelect = document.getElementById("arus");
+
+        resetSelect(arusSelect);
+
+        if (spesies !== "" && kedalaman !== "") {
+            const arusKeys = Object.keys(ruleBase[spesies][kedalaman]);
+            populateSelect(arusSelect, arusKeys);
+        }
+    }
+
+    function updateMusim() {
+        const spesies = document.getElementById("spesies").value;
+        const kedalaman = document.getElementById("kedalaman").value;
+        const arus = document.getElementById("arus").value;
+        const musimSelect = document.getElementById("musim");
+
+        resetSelect(musimSelect);
+
+        if (spesies !== "" && kedalaman !== "" && arus !== "") {
+            const musimKeys = ruleBase[spesies][kedalaman][arus];
+            populateSelect(musimSelect, musimKeys);
+        }
+    }
+
+    function resetSelect(selectElement) {
+        selectElement.innerHTML = '<option value="">-- Pilih --</option>';
+    }
+
+    function populateSelect(selectElement, optionsArray) {
+        optionsArray.forEach(optionValue => {
+            const option = document.createElement("option");
+            option.value = optionValue;
+            option.text = optionValue;
+            selectElement.add(option);
+        });
+    }
+    </script>
+</head>
+<body>
+
+<div class="header">
+    Sistem Pakar Rekomendasi Pemilihan Umpan Ikan
+</div>
+
+<form method="GET" action="proses_rule.html">
+
+    <label>Spesies Ikan Target:</label>
+    <select name="spesies" id="spesies" onchange="updateOptions()">
+        <option value="">-- Pilih Spesies --</option>
+        <option value="Kakap Merah">Kakap Merah</option>
+        <option value="Kerapu">Kerapu</option>
+        <option value="Aji-aji">Aji-aji</option>
+    </select><br><br>
+
+    <label>Kedalaman Perairan:</label>
+    <select name="kedalaman" id="kedalaman" onchange="updateArus()">
+        <option value="">-- Pilih --</option>
+    </select><br><br>
+
+    <label>Arus Laut:</label>
+    <select name="arus" id="arus" onchange="updateMusim()">
+        <option value="">-- Pilih --</option>
+    </select><br><br>
+
+    <label>Musim:</label>
+    <select name="musim" id="musim">
+        <option value="">-- Pilih --</option>
+    </select><br><br>
+
+    <input type="submit" value="Cari Rekomendasi Umpan">
+
+</form>
+
+<div class="footer">
+    Sistem Informasi UNSRAT
+</div>
+
+</body>
+</html>

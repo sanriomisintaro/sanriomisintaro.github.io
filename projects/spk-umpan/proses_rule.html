@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hasil Rekomendasi</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="header">Hasil Rekomendasi Umpan</div>
+
+<div class="result-box">
+    <h2>Rekomendasi:</h2>
+    <p id="hasilRekomendasi"></p>
+    <a href="index.html" class="back-button">Kembali ke Form</a>
+</div>
+
+<script>
+function getParam(key) {
+    const params = new URLSearchParams(window.location.search);
+    return params.get(key);
+}
+
+function prosesRule(spesies, kedalaman, arus, musim) {
+    let rekomendasi = "";
+
+    // ======= Kakap Merah =======
+    if (spesies === "Kakap Merah") {
+        if (kedalaman === "Dangkal" && arus === "Lemah" && musim === "Musim Udang") {
+            rekomendasi = "Udang Putih";
+        } else if (kedalaman === "Dangkal" && arus === "Sedang" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dangkal" && arus === "Kuat" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Lemah" && musim === "Musim Udang") {
+            rekomendasi = "Udang Putih";
+        } else if (kedalaman === "Sedang" && arus === "Sedang" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Kuat" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Lemah" && musim === "Semua Musim") {
+            rekomendasi = "Ikan Hidup (Kembung)";
+        } else if (kedalaman === "Dalam" && arus === "Sedang" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Kuat" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        }
+
+    // ======= Kerapu =======
+    } else if (spesies === "Kerapu") {
+        if (kedalaman === "Dangkal" && arus === "Lemah" && musim === "Musim Udang") {
+            rekomendasi = "Udang Merah";
+        } else if (kedalaman === "Dangkal" && arus === "Sedang" && musim === "Musim Udang") {
+            rekomendasi = "Udang Merah";
+        } else if (kedalaman === "Dangkal" && arus === "Kuat" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Lemah" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Sedang" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Kuat" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Lemah" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Sedang" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Kuat" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        }
+
+    // ======= Aji-aji =======
+    } else if (spesies === "Aji-aji") {
+        if (kedalaman === "Dangkal" && arus === "Lemah" && musim === "Musim Ikan Kecil") {
+            rekomendasi = "Ikan Kecil Segar";
+        } else if (kedalaman === "Dangkal" && arus === "Sedang" && musim === "Musim Ikan Kecil") {
+            rekomendasi = "Ikan Kecil Segar";
+        } else if (kedalaman === "Dangkal" && arus === "Kuat" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Lemah" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Sedang" && arus === "Sedang" && musim === "Musim Ikan Kecil") {
+            rekomendasi = "Ikan Kecil Segar";
+        } else if (kedalaman === "Sedang" && arus === "Kuat" && musim === "Musim Cumi") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Lemah" && musim === "Musim Ikan Kecil") {
+            rekomendasi = "Ikan Kecil Segar";
+        } else if (kedalaman === "Dalam" && arus === "Sedang" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        } else if (kedalaman === "Dalam" && arus === "Kuat" && musim === "Semua Musim") {
+            rekomendasi = "Cumi";
+        }
+    }
+
+    return rekomendasi || "Tidak ditemukan rekomendasi untuk kombinasi pilihan ini.";
+}
+
+// Ambil nilai dari URL
+const spesies = getParam("spesies");
+const kedalaman = getParam("kedalaman");
+const arus = getParam("arus");
+const musim = getParam("musim");
+
+// Proses dan tampilkan hasil
+const hasil = prosesRule(spesies, kedalaman, arus, musim);
+document.getElementById("hasilRekomendasi").innerText = hasil;
+
+//Luther Alexander Latumakulita, Sanriomi Sintaro, dan Vederico Pitsalitz Sabandar
+</script>
+
+<div class="footer">Sistem Informasi UNSRAT</div>
+</body>
+</html>
