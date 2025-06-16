@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Informasi Pelabuhan BMKG</title>
+
+  <!-- Google Font Icon (optional) -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 id="judulTop">Informasi Cuaca Pelabuhan, Sumber: BMKG</h1>
+    <div style="margin-bottom: 1rem;">
+  <label for="languageSelector">Bahasa / Language:</label>
+  <select id="languageSelector">
+    <option value="id">🇮🇩 Indonesia</option>
+    <option value="en">🇬🇧 English</option>
+  </select>
+</div>
+    <input
+      list="pelabuhanList"
+      id="pelabuhanInput"
+      placeholder="Ketik nama atau kode pelabuhan..."
+    />
+    <datalist id="pelabuhanList"></datalist>
+
+    <div id="judulInfo"></div>
+    <!-- <div id="spinner" class="spinner-overlay">
+      <div class="spinner-content">
+        🔄 Please wait, crawling data from BMKG and fetch data from its API...
+      </div>
+    </div> -->
+
+    <div id="spinner" class="spinner-overlay active">
+      <div class="spinner-content">Please wait, loading data from BMKG...</div>
+    </div>
+
+    <div id="hasilData"></div>
+    <div id="mapContainer"></div>
+  </div>
+  <script src="js/bahasa.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

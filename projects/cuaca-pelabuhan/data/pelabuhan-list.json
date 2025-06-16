@@ -1,0 +1,1457 @@
+[
+  {
+    "code": "0088",
+    "name": "Sintete",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0088_Sintete.json"
+  },
+  {
+    "code": "0310",
+    "name": "PPP Sungai Rengas",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0310_PPP Sungai Rengas.json"
+  },
+  {
+    "code": "0092",
+    "name": "Kendawangan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0092_Kendawangan.json"
+  },
+  {
+    "code": "0237",
+    "name": "Nunukan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0237_Nunukan.json"
+  },
+  {
+    "code": "0603",
+    "name": "Sanur",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0603_Sanur.json"
+  },
+  {
+    "code": "0325",
+    "name": "PPP Labuhan Maringgai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0325_PPP Labuhan Maringgai.json"
+  },
+  {
+    "code": "0559",
+    "name": "Mentigi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0559_Mentigi.json"
+  },
+  {
+    "code": "0452",
+    "name": "Arar",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0452_Arar.json"
+  },
+  {
+    "code": "0219",
+    "name": "Biringkasi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0219_Biringkasi.json"
+  },
+  {
+    "code": "0505",
+    "name": "PPN Merauke",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0505_PPN Merauke.json"
+  },
+  {
+    "code": "0475",
+    "name": "Pulau Tiga",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0475_Pulau Tiga.json"
+  },
+  {
+    "code": "0465",
+    "name": "Likupang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0465_Likupang.json"
+  },
+  {
+    "code": "0169",
+    "name": "Nusa Penida",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0169_Nusa Penida.json"
+  },
+  {
+    "code": "0531",
+    "name": "Pamamata, Selayar",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0531_Pamamata, Selayar.json"
+  },
+  {
+    "code": "0231",
+    "name": "Langara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0231_Langara.json"
+  },
+  {
+    "code": "0229",
+    "name": "Raha",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0229_Raha.json"
+  },
+  {
+    "code": "0581",
+    "name": "Kamaru",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0581_Kamaru.json"
+  },
+  {
+    "code": "0198",
+    "name": "Tanjung Santan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0198_Tanjung Santan.json"
+  },
+  {
+    "code": "0167",
+    "name": "Padangbai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0167_Padangbai.json"
+  },
+  {
+    "code": "0107",
+    "name": "Cirebon",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0107_Cirebon.json"
+  },
+  {
+    "code": "0199",
+    "name": "Sangkuliran",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0199_Sangkuliran.json"
+  },
+  {
+    "code": "0416",
+    "name": "Mawasangka",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0416_Mawasangka.json"
+  },
+  {
+    "code": "0383",
+    "name": "Tanjung Batu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0383_Tanjung Batu.json"
+  },
+  {
+    "code": "0598",
+    "name": "Tomia",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0598_Tomia.json"
+  },
+  {
+    "code": "0543",
+    "name": "Wakai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0543_Wakai.json"
+  },
+  {
+    "code": "0537",
+    "name": "Talang Duku",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0537_Talang Duku.json"
+  },
+  {
+    "code": "0490",
+    "name": "TPI Ie Meulle",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0490_TPI Ie Meulle.json"
+  },
+  {
+    "code": "0432",
+    "name": "Kayoa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0432_Kayoa.json"
+  },
+  {
+    "code": "0566",
+    "name": "Pulau Temajo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0566_Pulau Temajo.json"
+  },
+  {
+    "code": "0401",
+    "name": "Lewoleba",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0401_Lewoleba.json"
+  },
+  {
+    "code": "0553",
+    "name": "Wowong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0553_Wowong.json"
+  },
+  {
+    "code": "0010",
+    "name": "Soekarno - Hatta",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0010_Soekarno - Hatta.json"
+  },
+  {
+    "code": "0245",
+    "name": "Gorontalo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0245_Gorontalo.json"
+  },
+  {
+    "code": "0584",
+    "name": "Weda",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0584_Weda.json"
+  },
+  {
+    "code": "0002",
+    "name": "Teluk Bayur",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0002_Teluk Bayur.json"
+  },
+  {
+    "code": "0427",
+    "name": "PPN Donggala",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0427_PPN Donggala.json"
+  },
+  {
+    "code": "0606",
+    "name": "Wakai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0606_Wakai.json"
+  },
+  {
+    "code": "0486",
+    "name": "TPI Panimbang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0486_TPI Panimbang.json"
+  },
+  {
+    "code": "0371",
+    "name": "ASDP Bakauheni",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0371_ASDP Bakauheni.json"
+  },
+  {
+    "code": "0593",
+    "name": "Goto",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0593_Goto.json"
+  },
+  {
+    "code": "0477",
+    "name": "Subi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0477_Subi.json"
+  },
+  {
+    "code": "0544",
+    "name": "Toboli",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0544_Toboli.json"
+  },
+  {
+    "code": "0116",
+    "name": "Bojonegara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0116_Bojonegara.json"
+  },
+  {
+    "code": "0099",
+    "name": "Tanjung Pandan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0099_Tanjung Pandan.json"
+  },
+  {
+    "code": "0084",
+    "name": "Sekupang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0084_Sekupang.json"
+  },
+  {
+    "code": "0572",
+    "name": "Labuan, Buton Utara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0572_Labuan, Buton Utara.json"
+  },
+  {
+    "code": "0540",
+    "name": "PPI Nipah Panjang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0540_PPI Nipah Panjang.json"
+  },
+  {
+    "code": "0577",
+    "name": "Waara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0577_Waara.json"
+  },
+  {
+    "code": "0194",
+    "name": "Samarinda",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0194_Samarinda.json"
+  },
+  {
+    "code": "0491",
+    "name": "Kuala Tanjung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0491_Kuala Tanjung.json"
+  },
+  {
+    "code": "0356",
+    "name": "PPS Bitung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0356_PPS Bitung.json"
+  },
+  {
+    "code": "0451",
+    "name": "Waesai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0451_Waesai.json"
+  },
+  {
+    "code": "0587",
+    "name": "Kijing International Port",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0587_Kijing International Port.json"
+  },
+  {
+    "code": "0414",
+    "name": "Dongkala",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0414_Dongkala.json"
+  },
+  {
+    "code": "0089",
+    "name": "Sukabangun",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0089_Sukabangun.json"
+  },
+  {
+    "code": "0232",
+    "name": "Baubau",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0232_Baubau.json"
+  },
+  {
+    "code": "0564",
+    "name": "Pulau Lemukutan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0564_Pulau Lemukutan.json"
+  },
+  {
+    "code": "0493",
+    "name": "Calang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0493_Calang.json"
+  },
+  {
+    "code": "0428",
+    "name": "Klademak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0428_Klademak.json"
+  },
+  {
+    "code": "0605",
+    "name": "Tobelo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0605_Tobelo.json"
+  },
+  {
+    "code": "0268",
+    "name": "Namlea",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0268_Namlea.json"
+  },
+  {
+    "code": "0585",
+    "name": "Sanana",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0585_Sanana.json"
+  },
+  {
+    "code": "0435",
+    "name": "Sofifi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0435_Sofifi.json"
+  },
+  {
+    "code": "0243",
+    "name": "Poso",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0243_Poso.json"
+  },
+  {
+    "code": "0387",
+    "name": "Garongkong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0387_Garongkong.json"
+  },
+  {
+    "code": "0539",
+    "name": "Muara Sabak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0539_Muara Sabak.json"
+  },
+  {
+    "code": "0009",
+    "name": "Dwikora",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0009_Dwikora.json"
+  },
+  {
+    "code": "0560",
+    "name": "Sampalan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0560_Sampalan.json"
+  },
+  {
+    "code": "0359",
+    "name": "PPN Ternate",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0359_PPN Ternate.json"
+  },
+  {
+    "code": "0331",
+    "name": "PPP Bajomulyo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0331_PPP Bajomulyo.json"
+  },
+  {
+    "code": "0172",
+    "name": "Lembar",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0172_Lembar.json"
+  },
+  {
+    "code": "0561",
+    "name": "Tribuana Kusamba",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0561_Tribuana Kusamba.json"
+  },
+  {
+    "code": "0189",
+    "name": "Waingapu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0189_Waingapu.json"
+  },
+  {
+    "code": "0448",
+    "name": "Daruba-Morotai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0448_Daruba-Morotai.json"
+  },
+  {
+    "code": "0005",
+    "name": "Tanjung Intan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0005_Tanjung Intan.json"
+  },
+  {
+    "code": "0464",
+    "name": "Amurang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0464_Amurang.json"
+  },
+  {
+    "code": "0027",
+    "name": "Gunung Sitoli",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0027_Gunung Sitoli.json"
+  },
+  {
+    "code": "0480",
+    "name": "Ciwandan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0480_Ciwandan.json"
+  },
+  {
+    "code": "0313",
+    "name": "PPN Tanjung Pandan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0313_PPN Tanjung Pandan.json"
+  },
+  {
+    "code": "0026",
+    "name": "Sibolga",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0026_Sibolga.json"
+  },
+  {
+    "code": "0225",
+    "name": "Kolonodale",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0225_Kolonodale.json"
+  },
+  {
+    "code": "0328",
+    "name": "PPP Teladas",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0328_PPP Teladas.json"
+  },
+  {
+    "code": "0297",
+    "name": "Kokas",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0297_Kokas.json"
+  },
+  {
+    "code": "0499",
+    "name": "Galesong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0499_Galesong.json"
+  },
+  {
+    "code": "0389",
+    "name": "Tebas Kuala",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0389_Tebas Kuala.json"
+  },
+  {
+    "code": "0114",
+    "name": "PP Labuan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0114_PP Labuan.json"
+  },
+  {
+    "code": "0311",
+    "name": "PPP Teluk Batang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0311_PPP Teluk Batang.json"
+  },
+  {
+    "code": "0280",
+    "name": "Serui",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0280_Serui.json"
+  },
+  {
+    "code": "0301",
+    "name": "PPS Belawan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0301_PPS Belawan.json"
+  },
+  {
+    "code": "0012",
+    "name": "Samudera",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0012_Samudera.json"
+  },
+  {
+    "code": "0023",
+    "name": "Sinabang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0023_Sinabang.json"
+  },
+  {
+    "code": "0399",
+    "name": "Aimere",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0399_Aimere.json"
+  },
+  {
+    "code": "0269",
+    "name": "Amahai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0269_Amahai.json"
+  },
+  {
+    "code": "0546",
+    "name": "Ampana",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0546_Ampana.json"
+  },
+  {
+    "code": "0003",
+    "name": "Panjang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0003_Panjang.json"
+  },
+  {
+    "code": "0215",
+    "name": "Bajoe",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0215_Bajoe.json"
+  },
+  {
+    "code": "0315",
+    "name": "PPN Kejawanan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0315_PPN Kejawanan.json"
+  },
+  {
+    "code": "0597",
+    "name": "Ambarita",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0597_Ambarita.json"
+  },
+  {
+    "code": "0105",
+    "name": "Muara Angke",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0105_Muara Angke.json"
+  },
+  {
+    "code": "0567",
+    "name": "Pototano",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0567_Pototano.json"
+  },
+  {
+    "code": "0082",
+    "name": "Ferry Harbour Bay",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0082_Ferry Harbour Bay.json"
+  },
+  {
+    "code": "0576",
+    "name": "Bira",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0576_Bira.json"
+  },
+  {
+    "code": "0579",
+    "name": "Kadatua",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0579_Kadatua.json"
+  },
+  {
+    "code": "0340",
+    "name": "PPS Cilacap",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0340_PPS Cilacap.json"
+  },
+  {
+    "code": "0463",
+    "name": "Amolengo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0463_Amolengo.json"
+  },
+  {
+    "code": "0370",
+    "name": "ASDP Merak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0370_ASDP Merak.json"
+  },
+  {
+    "code": "0224",
+    "name": "Banggai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0224_Banggai.json"
+  },
+  {
+    "code": "0583",
+    "name": "Gebe",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0583_Gebe.json"
+  },
+  {
+    "code": "0015",
+    "name": "Yos Sudarso",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0015_Yos Sudarso.json"
+  },
+  {
+    "code": "0541",
+    "name": "Taman Nasional Pulau Komodo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0541_Taman Nasional Pulau Komodo.json"
+  },
+  {
+    "code": "0591",
+    "name": "Logending",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0591_Logending.json"
+  },
+  {
+    "code": "0250",
+    "name": "Manado",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0250_Manado.json"
+  },
+  {
+    "code": "0246",
+    "name": "PPN Kwandang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0246_PPN Kwandang.json"
+  },
+  {
+    "code": "0501",
+    "name": "Muara Sampara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0501_Muara Sampara.json"
+  },
+  {
+    "code": "0346",
+    "name": "PPP Tamperan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0346_PPP Tamperan.json"
+  },
+  {
+    "code": "0284",
+    "name": "Manokwari",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0284_Manokwari.json"
+  },
+  {
+    "code": "0578",
+    "name": "Tolandano",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0578_Tolandano.json"
+  },
+  {
+    "code": "0586",
+    "name": "Bobong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0586_Bobong.json"
+  },
+  {
+    "code": "0534",
+    "name": "Internasional Tanjung Balai Karimun",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0534_Internasional Tanjung Balai Karimun.json"
+  },
+  {
+    "code": "0334",
+    "name": "PPP Tasik Agung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0334_PPP Tasik Agung.json"
+  },
+  {
+    "code": "0569",
+    "name": "Kupal",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0569_Kupal.json"
+  },
+  {
+    "code": "0011",
+    "name": "Kendari",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0011_Kendari.json"
+  },
+  {
+    "code": "0361",
+    "name": "PPN Ambon",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0361_PPN Ambon.json"
+  },
+  {
+    "code": "0185",
+    "name": "Seba",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0185_Seba.json"
+  },
+  {
+    "code": "0554",
+    "name": "Balauring",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0554_Balauring.json"
+  },
+  {
+    "code": "0151",
+    "name": "Gresik",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0151_Gresik.json"
+  },
+  {
+    "code": "0186",
+    "name": "Rote",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0186_Rote.json"
+  },
+  {
+    "code": "0590",
+    "name": "Larangan Tegal",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0590_Larangan Tegal.json"
+  },
+  {
+    "code": "0380",
+    "name": "Tanjung Api Api",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0380_Tanjung Api Api.json"
+  },
+  {
+    "code": "0119",
+    "name": "Kota Agung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0119_Kota Agung.json"
+  },
+  {
+    "code": "0004",
+    "name": "Tanjung Priok",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0004_Tanjung Priok.json"
+  },
+  {
+    "code": "0496",
+    "name": "PPP Klidang Lor",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0496_PPP Klidang Lor.json"
+  },
+  {
+    "code": "0594",
+    "name": "Sipinggan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0594_Sipinggan.json"
+  },
+  {
+    "code": "0466",
+    "name": "Pananaru",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0466_Pananaru.json"
+  },
+  {
+    "code": "0121",
+    "name": "Mesuji",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0121_Mesuji.json"
+  },
+  {
+    "code": "0286",
+    "name": "Merauke",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0286_Merauke.json"
+  },
+  {
+    "code": "0557",
+    "name": "Reo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0557_Reo.json"
+  },
+  {
+    "code": "0267",
+    "name": "Banda Neira",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0267_Banda Neira.json"
+  },
+  {
+    "code": "0599",
+    "name": "Kaledupa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0599_Kaledupa.json"
+  },
+  {
+    "code": "0500",
+    "name": "Bangsalae",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0500_Bangsalae.json"
+  },
+  {
+    "code": "0433",
+    "name": "Sidangole",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0433_Sidangole.json"
+  },
+  {
+    "code": "0565",
+    "name": "Sui Kunyit",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0565_Sui Kunyit.json"
+  },
+  {
+    "code": "0589",
+    "name": "Wonokerto",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0589_Wonokerto.json"
+  },
+  {
+    "code": "0195",
+    "name": "Tarakan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0195_Tarakan.json"
+  },
+  {
+    "code": "0457",
+    "name": "Sausapor",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0457_Sausapor.json"
+  },
+  {
+    "code": "0552",
+    "name": "Hansisi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0552_Hansisi.json"
+  },
+  {
+    "code": "0014",
+    "name": "Batu Ampar",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0014_Batu Ampar.json"
+  },
+  {
+    "code": "0574",
+    "name": "Tanjung Pising",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0574_Tanjung Pising.json"
+  },
+  {
+    "code": "0335",
+    "name": "PPP Tawang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0335_PPP Tawang.json"
+  },
+  {
+    "code": "0476",
+    "name": "Midai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0476_Midai.json"
+  },
+  {
+    "code": "0458",
+    "name": "Babo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0458_Babo.json"
+  },
+  {
+    "code": "0600",
+    "name": "Binongko",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0600_Binongko.json"
+  },
+  {
+    "code": "0592",
+    "name": "Sentolo Kawat",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0592_Sentolo Kawat.json"
+  },
+  {
+    "code": "0595",
+    "name": "Balige",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0595_Balige.json"
+  },
+  {
+    "code": "0170",
+    "name": "ASDP Gilimanuk",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0170_ASDP Gilimanuk.json"
+  },
+  {
+    "code": "0551",
+    "name": "Maumere",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0551_Maumere.json"
+  },
+  {
+    "code": "0555",
+    "name": "Adonara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0555_Adonara.json"
+  },
+  {
+    "code": "0471",
+    "name": "Letung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0471_Letung.json"
+  },
+  {
+    "code": "0573",
+    "name": "Kasipute",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0573_Kasipute.json"
+  },
+  {
+    "code": "0556",
+    "name": "Pulau Palue",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0556_Pulau Palue.json"
+  },
+  {
+    "code": "0154",
+    "name": "Kalianget",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0154_Kalianget.json"
+  },
+  {
+    "code": "0571",
+    "name": "Indari",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0571_Indari.json"
+  },
+  {
+    "code": "0474",
+    "name": "Sedanau",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0474_Sedanau.json"
+  },
+  {
+    "code": "0336",
+    "name": "PPP Tegalsari",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0336_PPP Tegalsari.json"
+  },
+  {
+    "code": "0333",
+    "name": "Morodemak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0333_Morodemak.json"
+  },
+  {
+    "code": "0165",
+    "name": "Benoa, Bali",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0165_Benoa, Bali.json"
+  },
+  {
+    "code": "0545",
+    "name": "Pagimana",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0545_Pagimana.json"
+  },
+  {
+    "code": "0473",
+    "name": "Pulau Laut",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0473_Pulau Laut.json"
+  },
+  {
+    "code": "0450",
+    "name": "Krui",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0450_Krui.json"
+  },
+  {
+    "code": "0492",
+    "name": "Idi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0492_Idi.json"
+  },
+  {
+    "code": "0270",
+    "name": "Tulehu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0270_Tulehu.json"
+  },
+  {
+    "code": "0443",
+    "name": "Subaim",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0443_Subaim.json"
+  },
+  {
+    "code": "0441",
+    "name": "Ferry Batam Centre International",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0441_Ferry Batam Centre International.json"
+  },
+  {
+    "code": "0309",
+    "name": "PPN Pemangkat",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0309_PPN Pemangkat.json"
+  },
+  {
+    "code": "0193",
+    "name": "Semayang, Balikpapan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0193_Semayang, Balikpapan.json"
+  },
+  {
+    "code": "0533",
+    "name": "Cituis Rawa Saban",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0533_Cituis Rawa Saban.json"
+  },
+  {
+    "code": "0028",
+    "name": "Teluk Dalam",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0028_Teluk Dalam.json"
+  },
+  {
+    "code": "0487",
+    "name": "PPI Binuangen",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0487_PPI Binuangen.json"
+  },
+  {
+    "code": "0502",
+    "name": "PP Muara Kintap",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0502_PP Muara Kintap.json"
+  },
+  {
+    "code": "0164",
+    "name": "ASDP Ketapang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0164_ASDP Ketapang.json"
+  },
+  {
+    "code": "0580",
+    "name": "Siompu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0580_Siompu.json"
+  },
+  {
+    "code": "0016",
+    "name": "Malahayati",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0016_Malahayati.json"
+  },
+  {
+    "code": "0329",
+    "name": "PPN Pekalongan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0329_PPN Pekalongan.json"
+  },
+  {
+    "code": "0472",
+    "name": "Kuala Maras",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0472_Kuala Maras.json"
+  },
+  {
+    "code": "0168",
+    "name": "Celukan Bawang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0168_Celukan Bawang.json"
+  },
+  {
+    "code": "0596",
+    "name": "Ajibata",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0596_Ajibata.json"
+  },
+  {
+    "code": "0542",
+    "name": "Raijua",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0542_Raijua.json"
+  },
+  {
+    "code": "0200",
+    "name": "Lok Tuan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0200_Lok Tuan.json"
+  },
+  {
+    "code": "0588",
+    "name": "Asem Doyong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0588_Asem Doyong.json"
+  },
+  {
+    "code": "0563",
+    "name": "Teluk Suak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0563_Teluk Suak.json"
+  },
+  {
+    "code": "0418",
+    "name": "Penajam",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0418_Penajam.json"
+  },
+  {
+    "code": "0191",
+    "name": "Larantuka",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0191_Larantuka.json"
+  },
+  {
+    "code": "0291",
+    "name": "Sorong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0291_Sorong.json"
+  },
+  {
+    "code": "0272",
+    "name": "Dobo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0272_Dobo.json"
+  },
+  {
+    "code": "0353",
+    "name": "PPS Kendari",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0353_PPS Kendari.json"
+  },
+  {
+    "code": "0568",
+    "name": "Kayangan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0568_Kayangan.json"
+  },
+  {
+    "code": "0188",
+    "name": "Kalabahi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0188_Kalabahi.json"
+  },
+  {
+    "code": "0429",
+    "name": "Pantoloan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0429_Pantoloan.json"
+  },
+  {
+    "code": "0524",
+    "name": "Jangkar",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0524_Jangkar.json"
+  },
+  {
+    "code": "0602",
+    "name": "Depapre",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0602_Depapre.json"
+  },
+  {
+    "code": "0489",
+    "name": "PP Sumur",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0489_PP Sumur.json"
+  },
+  {
+    "code": "0497",
+    "name": "PP Mayangan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0497_PP Mayangan.json"
+  },
+  {
+    "code": "0438",
+    "name": "Babang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0438_Babang.json"
+  },
+  {
+    "code": "0085",
+    "name": "Tarempa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0085_Tarempa.json"
+  },
+  {
+    "code": "0419",
+    "name": "Karingau",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0419_Karingau.json"
+  },
+  {
+    "code": "0101",
+    "name": "Sunda Kelapa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0101_Sunda Kelapa.json"
+  },
+  {
+    "code": "0412",
+    "name": "Torobulu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0412_Torobulu.json"
+  },
+  {
+    "code": "0182",
+    "name": "Labuan Bajo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0182_Labuan Bajo.json"
+  },
+  {
+    "code": "0406",
+    "name": "Tondasi, Muna Barat",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0406_Tondasi, Muna Barat.json"
+  },
+  {
+    "code": "0129",
+    "name": "Karimun Jawa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0129_Karimun Jawa.json"
+  },
+  {
+    "code": "0570",
+    "name": "Busua",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0570_Busua.json"
+  },
+  {
+    "code": "0142",
+    "name": "Kumai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0142_Kumai.json"
+  },
+  {
+    "code": "0278",
+    "name": "Jayapura",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0278_Jayapura.json"
+  },
+  {
+    "code": "0407",
+    "name": "Sikeli",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0407_Sikeli.json"
+  },
+  {
+    "code": "0479",
+    "name": "Rasau Jaya",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0479_Rasau Jaya.json"
+  },
+  {
+    "code": "0478",
+    "name": "Serasan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0478_Serasan.json"
+  },
+  {
+    "code": "0434",
+    "name": "Rum",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0434_Rum.json"
+  },
+  {
+    "code": "0548",
+    "name": "Dolong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0548_Dolong.json"
+  },
+  {
+    "code": "0104",
+    "name": "Kalibaru",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0104_Kalibaru.json"
+  },
+  {
+    "code": "0102",
+    "name": "Marunda",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0102_Marunda.json"
+  },
+  {
+    "code": "0444",
+    "name": "Wa Ode Buri",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0444_Wa Ode Buri.json"
+  },
+  {
+    "code": "0483",
+    "name": "Pelabuhan di DKI Jakartaa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0483_Pelabuhan di DKI Jakartaa.json"
+  },
+  {
+    "code": "0326",
+    "name": "PPP Lempasing",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0326_PPP Lempasing.json"
+  },
+  {
+    "code": "0398",
+    "name": "Bolok",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0398_Bolok.json"
+  },
+  {
+    "code": "0481",
+    "name": "Pelabuhan ANyer",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0481_Pelabuhan ANyer.json"
+  },
+  {
+    "code": "0008",
+    "name": "Tenau",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0008_Tenau.json"
+  },
+  {
+    "code": "0538",
+    "name": "Roro Kuala Tungkal",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0538_Roro Kuala Tungkal.json"
+  },
+  {
+    "code": "0292",
+    "name": "Fak-fak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0292_Fak-fak.json"
+  },
+  {
+    "code": "0402",
+    "name": "Waiwerang",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0402_Waiwerang.json"
+  },
+  {
+    "code": "0413",
+    "name": "Tampo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0413_Tampo.json"
+  },
+  {
+    "code": "0536",
+    "name": "Khusus Bea Cukai",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0536_Khusus Bea Cukai.json"
+  },
+  {
+    "code": "0128",
+    "name": "Jepara",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0128_Jepara.json"
+  },
+  {
+    "code": "0405",
+    "name": "Pamamata",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0405_Pamamata.json"
+  },
+  {
+    "code": "0404",
+    "name": "Tanjung Bira",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0404_Tanjung Bira.json"
+  },
+  {
+    "code": "0006",
+    "name": "Tanjung Mas",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0006_Tanjung Mas.json"
+  },
+  {
+    "code": "0547",
+    "name": "Pasokan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0547_Pasokan.json"
+  },
+  {
+    "code": "0350",
+    "name": "PPN Pengambengan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0350_PPN Pengambengan.json"
+  },
+  {
+    "code": "0459",
+    "name": "Misool",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0459_Misool.json"
+  },
+  {
+    "code": "0281",
+    "name": "Nabire",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0281_Nabire.json"
+  },
+  {
+    "code": "0504",
+    "name": "Patimban",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0504_Patimban.json"
+  },
+  {
+    "code": "0379",
+    "name": "Tua Pejat",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0379_Tua Pejat.json"
+  },
+  {
+    "code": "0115",
+    "name": "PP Karangantu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0115_PP Karangantu.json"
+  },
+  {
+    "code": "0494",
+    "name": "Susoh Blang Pidie",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0494_Susoh Blang Pidie.json"
+  },
+  {
+    "code": "0377",
+    "name": "Teluk Bungus",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0377_Teluk Bungus.json"
+  },
+  {
+    "code": "0582",
+    "name": "Buli",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0582_Buli.json"
+  },
+  {
+    "code": "0285",
+    "name": "Wasior",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0285_Wasior.json"
+  },
+  {
+    "code": "0575",
+    "name": "Pure",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0575_Pure.json"
+  },
+  {
+    "code": "0271",
+    "name": "Tual",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0271_Tual.json"
+  },
+  {
+    "code": "0013",
+    "name": "Biak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0013_Biak.json"
+  },
+  {
+    "code": "0252",
+    "name": "Lirung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0252_Lirung.json"
+  },
+  {
+    "code": "0446",
+    "name": "Pulau Moti",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0446_Pulau Moti.json"
+  },
+  {
+    "code": "0430",
+    "name": "Pondong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0430_Pondong.json"
+  },
+  {
+    "code": "0276",
+    "name": "Waipirit",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0276_Waipirit.json"
+  },
+  {
+    "code": "0431",
+    "name": "Bastiong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0431_Bastiong.json"
+  },
+  {
+    "code": "0549",
+    "name": "Marisa",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0549_Marisa.json"
+  },
+  {
+    "code": "0409",
+    "name": "Kolaka",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0409_Kolaka.json"
+  },
+  {
+    "code": "0498",
+    "name": "Tanjung Silopo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0498_Tanjung Silopo.json"
+  },
+  {
+    "code": "0187",
+    "name": "Atapupu",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0187_Atapupu.json"
+  },
+  {
+    "code": "0437",
+    "name": "Tobelo",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0437_Tobelo.json"
+  },
+  {
+    "code": "0047",
+    "name": "Tanjung Balai Asahan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0047_Tanjung Balai Asahan.json"
+  },
+  {
+    "code": "0423",
+    "name": "Wanci",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0423_Wanci.json"
+  },
+  {
+    "code": "0469",
+    "name": "Penagi",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0469_Penagi.json"
+  },
+  {
+    "code": "0550",
+    "name": "Ende, Flores",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0550_Ende, Flores.json"
+  },
+  {
+    "code": "0528",
+    "name": "Marina Tanjung Lesung",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0528_Marina Tanjung Lesung.json"
+  },
+  {
+    "code": "0001",
+    "name": "Belawan",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0001_Belawan.json"
+  },
+  {
+    "code": "0470",
+    "name": "Sampit",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0470_Sampit.json"
+  },
+  {
+    "code": "0251",
+    "name": "Tahuna",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0251_Tahuna.json"
+  },
+  {
+    "code": "0601",
+    "name": "Pangandaran",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0601_Pangandaran.json"
+  },
+  {
+    "code": "0485",
+    "name": "Indah Kiat",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0485_Indah Kiat.json"
+  },
+  {
+    "code": "0529",
+    "name": "Padang Tikar",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0529_Padang Tikar.json"
+  },
+  {
+    "code": "0532",
+    "name": "Batulicin",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0532_Batulicin.json"
+  },
+  {
+    "code": "0257",
+    "name": "Ahmad Yani, Ternate",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0257_Ahmad Yani, Ternate.json"
+  },
+  {
+    "code": "0488",
+    "name": "PP Pasauran",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0488_PP Pasauran.json"
+  },
+  {
+    "code": "0535",
+    "name": "Parit Rampak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0535_Parit Rampak.json"
+  },
+  {
+    "code": "0562",
+    "name": "Ulu Siau",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0562_Ulu Siau.json"
+  },
+  {
+    "code": "0207",
+    "name": "Pare-pare",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0207_Pare-pare.json"
+  },
+  {
+    "code": "0495",
+    "name": "PPP Carocok",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0495_PPP Carocok.json"
+  },
+  {
+    "code": "0106",
+    "name": "PPS Muara Baru",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0106_PPS Muara Baru.json"
+  },
+  {
+    "code": "0382",
+    "name": "Tanjung Kelian",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0382_Tanjung Kelian.json"
+  },
+  {
+    "code": "0530",
+    "name": "Bira",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0530_Bira.json"
+  },
+  {
+    "code": "0391",
+    "name": "Sangkapura",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0391_Sangkapura.json"
+  },
+  {
+    "code": "0456",
+    "name": "Dermaga Usaha Mina",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0456_Dermaga Usaha Mina.json"
+  },
+  {
+    "code": "0417",
+    "name": "Luwuk",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0417_Luwuk.json"
+  },
+  {
+    "code": "0449",
+    "name": "Pulau Makian",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0449_Pulau Makian.json"
+  },
+  {
+    "code": "0455",
+    "name": "Pelayaran Rakyat Sorong",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0455_Pelayaran Rakyat Sorong.json"
+  },
+  {
+    "code": "0007",
+    "name": "Tanjung Perak",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0007_Tanjung Perak.json"
+  },
+  {
+    "code": "0339",
+    "name": "PP Banjarmasin",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0339_PP Banjarmasin.json"
+  },
+  {
+    "code": "0558",
+    "name": "Solor",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0558_Solor.json"
+  },
+  {
+    "code": "0183",
+    "name": "Baranusa, Alor",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0183_Baranusa, Alor.json"
+  },
+  {
+    "code": "0439",
+    "name": "Batang Dua",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0439_Batang Dua.json"
+  },
+  {
+    "code": "0173",
+    "name": "Bima, NTB",
+    "url": "https://peta-maritim.bmkg.go.id/public_api/pelabuhan/0173_Bima, NTB.json"
+  }
+]
