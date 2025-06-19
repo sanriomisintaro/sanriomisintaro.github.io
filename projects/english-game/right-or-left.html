@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Right or Left Sentences</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .sentence-box {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px auto;
+            max-width: 800px;
+            gap: 20px;
+        }
+        .sentence {
+            background-color: #D1FEFF;
+            border: 2px solid #B0DEE5;
+            border-radius: 10px;
+            padding: 20px;
+            flex: 1;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Right or Left Sentences</h1>
+    <div class="sentence-box">
+        <div class="sentence" id="left-sentence">Loading left...</div>
+        <div class="sentence" id="right-sentence">Loading right...</div>
+    </div>
+
+    <button class="button" onclick="checkAnswer('left')">LEFT</button>
+    <button class="button" onclick="checkAnswer('right')">RIGHT</button>
+
+    <div class="score" id="score">Score: 0</div>
+
+    <a class="back-button" href="index.html">Back to Menu</a>
+
+    <script src="js/right-or-left.js"></script>
+
+</body>
+</html>

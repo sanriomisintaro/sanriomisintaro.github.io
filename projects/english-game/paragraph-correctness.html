@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paragraph Correctness</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .paragraph-box {
+            background-color: #D1FEFF;
+            border: 2px solid #B0DEE5;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 800px;
+            text-align: left;
+            font-size: 1.2em;
+            line-height: 1.6em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Paragraph Correctness</h1>
+    <div class="paragraph-box" id="paragraph">Loading paragraph...</div>
+
+    <button class="button" onclick="checkAnswer(true)">Correct</button>
+    <button class="button" onclick="checkAnswer(false)">Incorrect</button>
+
+    <div class="score" id="score">Score: 0</div>
+
+    <a class="back-button" href="index.html">Back to Menu</a>
+
+    <script src="js/paragraph-correctness.js"></script>
+
+</body>
+</html>
