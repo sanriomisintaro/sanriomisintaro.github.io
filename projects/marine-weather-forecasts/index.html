@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Informasi Cuaca Laut BMKG</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://fonts.gstatic.com/s/i/materialicons/waves/v17/24px.svg" type="image/svg+xml">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="./css/style.css" />
+
+  <!-- Google Fonts & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header -->
+    <header class="app-header">
+      <h2>Informasi Cuaca Laut (Perairan Indonesia)</h2>
+      <button id="toggleTheme" title="Ganti Mode Gelap/Terang">
+        <span class="material-icons">brightness_6</span>
+      </button>
+    </header>
+
+    <p class="subtitle">Sumber Data Resmi: BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)</p>
+
+    <!-- Search Bar -->
+    <section class="search-section">
+      <label for="wilayahInput" class="search-label">Pilih Wilayah Perairan:</label>
+      <input list="wilayahList" id="wilayahInput" name="wilayahInput" placeholder="Ketik atau pilih wilayah..." />
+      <datalist id="wilayahList"></datalist>
+    </section>
+
+    <!-- Selected Wilayah Info -->
+    <section id="wilayahInfo" class="wilayah-info"></section>
+
+    <!-- Results -->
+    <section id="result" class="result-section"></section>
+    <section id="wave" class="wave-section"></section>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay">
+      <div class="loading-message">
+        <p>Memuat data dari BMKG...<br />Mohon tunggu.</p>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footerInfo" class="footer-info"></footer>
+  </div>
+
+  <!-- Script -->
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
