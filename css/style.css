@@ -25,13 +25,15 @@
 	
 =======================================================================*/
 
-
-
-
-
-
 /*Importing Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700,600,300|Playfair+Display:700italic,400italic|Crimson+Text:400italic,600italic|Open+Sans:400,700);
+
+
+.button-1{
+background-color: #F0F0F0;
+}
+
+
 
 /*=======================================================================
 	General CSS
