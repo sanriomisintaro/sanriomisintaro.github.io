@@ -30,10 +30,8 @@
 
 
 .button-1{
-	background-color: #FFFFFF;
 	padding:6px;
-	margin-top:6px;
-	outline: 1px solid #CECECE;
+	box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
 }
 
 
